@@ -1,0 +1,255 @@
+{
+    "categories": [
+        "stand",
+        "sit",
+        "lay",
+        "sniff",
+        "walk",
+        "run",
+        "jump",
+        "roll",
+        "pounce"
+    ],
+    "annotations": {
+        "stand02.json": {
+            "category_id": 1
+        },
+        "stand03.json": {
+            "category_id": 1
+        },
+        "stand04.json": {
+            "category_id": 1
+        },
+        "stand05.json": {
+            "category_id": 1
+        },
+        "stand06.json": {
+            "category_id": 1
+        },
+        "stand08.json": {
+            "category_id": 1
+        },
+        "stand09.json": {
+            "category_id": 1
+        },
+        "stand10.json": {
+            "category_id": 1
+        },
+        "stand11.json": {
+            "category_id": 1
+        },
+        "sit01.json": {
+            "category_id": 2
+        },
+        "sit02.json": {
+            "category_id": 2
+        },
+        "sit03.json": {
+            "category_id": 2
+        },
+        "sit05.json": {
+            "category_id": 2
+        },
+        "sit06.json": {
+            "category_id": 2
+        },
+        "sit07.json": {
+            "category_id": 2
+        },
+        "sit08.json": {
+            "category_id": 2
+        },
+        "sit10.json": {
+            "category_id": 2
+        },
+        "sit11.json": {
+            "category_id": 2
+        },
+        "lay02.json": {
+            "category_id": 3
+        },
+        "lay03.json": {
+            "category_id": 3
+        },
+        "lay04.json": {
+            "category_id": 3
+        },
+        "lay05.json": {
+            "category_id": 3
+        },
+        "lay07.json": {
+            "category_id": 3
+        },
+        "lay08.json": {
+            "category_id": 3
+        },
+        "lay09.json": {
+            "category_id": 3
+        },
+        "lay10.json": {
+            "category_id": 3
+        },
+        "sniff01.json": {
+            "category_id": 4
+        },
+        "sniff02.json": {
+            "category_id": 4
+        },
+        "sniff04.json": {
+            "category_id": 4
+        },
+        "sniff05.json": {
+            "category_id": 4
+        },
+        "sniff06.json": {
+            "category_id": 4
+        },
+        "sniff07.json": {
+            "category_id": 4
+        },
+        "sniff09.json": {
+            "category_id": 4
+        },
+        "sniff10.json": {
+            "category_id": 4
+        },
+        "sniff11.json": {
+            "category_id": 4
+        },
+        "sniff12.json": {
+            "category_id": 4
+        },
+        "walk01.json": {
+            "category_id": 5
+        },
+        "walk02.json": {
+            "category_id": 5
+        },
+        "walk03.json": {
+            "category_id": 5
+        },
+        "walk04.json": {
+            "category_id": 5
+        },
+        "walk06.json": {
+            "category_id": 5
+        },
+        "walk07.json": {
+            "category_id": 5
+        },
+        "walk08.json": {
+            "category_id": 5
+        },
+        "walk09.json": {
+            "category_id": 5
+        },
+        "walk11.json": {
+            "category_id": 5
+        },
+        "walk12.json": {
+            "category_id": 5
+        },
+        "walk13.json": {
+            "category_id": 5
+        },
+        "walk14.json": {
+            "category_id": 5
+        },
+        "walk15.json": {
+            "category_id": 5
+        },
+        "run01.json": {
+            "category_id": 6
+        },
+        "run02.json": {
+            "category_id": 6
+        },
+        "run03.json": {
+            "category_id": 6
+        },
+        "run05.json": {
+            "category_id": 6
+        },
+        "run06.json": {
+            "category_id": 6
+        },
+        "run07.json": {
+            "category_id": 6
+        },
+        "run08.json": {
+            "category_id": 6
+        },
+        "run10.json": {
+            "category_id": 6
+        },
+        "run11.json": {
+            "category_id": 6
+        },
+        "jump02.json": {
+            "category_id": 7
+        },
+        "jump03.json": {
+            "category_id": 7
+        },
+        "jump04.json": {
+            "category_id": 7
+        },
+        "jump05.json": {
+            "category_id": 7
+        },
+        "jump07.json": {
+            "category_id": 7
+        },
+        "jump08.json": {
+            "category_id": 7
+        },
+        "jump09.json": {
+            "category_id": 7
+        },
+        "jump10.json": {
+            "category_id": 7
+        },
+        "roll01.json": {
+            "category_id": 8
+        },
+        "roll03.json": {
+            "category_id": 8
+        },
+        "roll04.json": {
+            "category_id": 8
+        },
+        "roll05.json": {
+            "category_id": 8
+        },
+        "roll06.json": {
+            "category_id": 8
+        },
+        "roll08.json": {
+            "category_id": 8
+        },
+        "pounce01.json": {
+            "category_id": 9
+        },
+        "pounce02.json": {
+            "category_id": 9
+        },
+        "pounce03.json": {
+            "category_id": 9
+        },
+        "pounce04.json": {
+            "category_id": 9
+        },
+        "pounce05.json": {
+            "category_id": 9
+        },
+        "pounce07.json": {
+            "category_id": 9
+        },
+        "pounce08.json": {
+            "category_id": 9
+        },
+        "pounce09.json": {
+            "category_id": 9
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "categories": [
+        "stand",
+        "sit",
+        "lay",
+        "sniff",
+        "walk",
+        "run",
+        "jump",
+        "roll",
+        "pounce"
+    ],
+    "annotations": {
+        "stand01.json": {
+            "category_id": 1
+        },
+        "stand07.json": {
+            "category_id": 1
+        },
+        "stand12.json": {
+            "category_id": 1
+        },
+        "sit04.json": {
+            "category_id": 2
+        },
+        "sit09.json": {
+            "category_id": 2
+        },
+        "lay01.json": {
+            "category_id": 3
+        },
+        "lay06.json": {
+            "category_id": 3
+        },
+        "lay11.json": {
+            "category_id": 3
+        },
+        "sniff03.json": {
+            "category_id": 4
+        },
+        "sniff08.json": {
+            "category_id": 4
+        },
+        "walk05.json": {
+            "category_id": 5
+        },
+        "walk10.json": {
+            "category_id": 5
+        },
+        "walk16.json": {
+            "category_id": 5
+        },
+        "run04.json": {
+            "category_id": 6
+        },
+        "run09.json": {
+            "category_id": 6
+        },
+        "jump01.json": {
+            "category_id": 7
+        },
+        "jump06.json": {
+            "category_id": 7
+        },
+        "roll02.json": {
+            "category_id": 8
+        },
+        "roll07.json": {
+            "category_id": 8
+        },
+        "pounce06.json": {
+            "category_id": 9
+        }
+    }
+}

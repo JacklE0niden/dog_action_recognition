@@ -1,0 +1,302 @@
+{
+    "stand01": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand02": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand03": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand04": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand05": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand06": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand07": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand08": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "stand09": {
+        "has_skeleton": true,
+        "label": "stand",
+        "label_index": 1
+    },
+    "sit01": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit02": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit03": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit04": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit05": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit06": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit07": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit08": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "sit09": {
+        "has_skeleton": true,
+        "label": "sit",
+        "label_index": 2
+    },
+    "lay01": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay02": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay03": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay04": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay05": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay06": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay07": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "lay08": {
+        "has_skeleton": true,
+        "label": "lay",
+        "label_index": 3
+    },
+    "sniff01": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff02": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff03": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff04": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff05": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff06": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff07": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "sniff08": {
+        "has_skeleton": true,
+        "label": "sniff",
+        "label_index": 4
+    },
+    "walk01": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk02": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk03": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk04": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk05": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk06": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk07": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk08": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk09": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk10": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk11": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk12": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk13": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "walk14": {
+        "has_skeleton": true,
+        "label": "walk",
+        "label_index": 5
+    },
+    "run01": {
+        "has_skeleton": true,
+        "label": "run",
+        "label_index": 6
+    },
+    "run02": {
+        "has_skeleton": true,
+        "label": "run",
+        "label_index": 6
+    },
+    "run03": {
+        "has_skeleton": true,
+        "label": "run",
+        "label_index": 6
+    },
+    "run04": {
+        "has_skeleton": true,
+        "label": "run",
+        "label_index": 6
+    },
+    "run05": {
+        "has_skeleton": true,
+        "label": "run",
+        "label_index": 6
+    },
+    "jump01": {
+        "has_skeleton": true,
+        "label": "jump",
+        "label_index": 7
+    },
+    "jump02": {
+        "has_skeleton": true,
+        "label": "jump",
+        "label_index": 7
+    },
+    "jump03": {
+        "has_skeleton": true,
+        "label": "jump",
+        "label_index": 7
+    },
+    "jump04": {
+        "has_skeleton": true,
+        "label": "jump",
+        "label_index": 7
+    },
+    "pounce01": {
+        "has_skeleton": true,
+        "label": "pounce",
+        "label_index": 9
+    },
+    "pounce02": {
+        "has_skeleton": true,
+        "label": "pounce",
+        "label_index": 9
+    },
+    "pounce03": {
+        "has_skeleton": true,
+        "label": "pounce",
+        "label_index": 9
+    }
+}
